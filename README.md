@@ -20,9 +20,9 @@ The model learns to reconstruct missing regions by iteratively denoising Gaussia
 
 Example reconstruction:
 
-![result](Figs/inpainting_results.png)
-![result](Figs/inpainting_results2.png)
-![result](Figs/inpainting_results3.png)
+![result](Figures/inpainting_results.png)
+![result](Figures/inpainting_results2.png)
+![result](Figures/inpainting_results3.png)
 
 ---
 
