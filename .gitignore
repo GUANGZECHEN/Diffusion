@@ -1,0 +1,5 @@
+data/
+*.tar.gz
+checkpoints/
+__pycache__/
+*.pyc
