@@ -6,13 +6,6 @@ The model learns to reconstruct missing regions by iteratively denoising Gaussia
 
 ---
 
-## Structure
-
-- `source/`: core implementation (model, diffusion, training, sampling)
-- `examples/`: runnable scripts
-- `figs/`: generated results
-
----
 
 ## Method
 
@@ -27,7 +20,9 @@ The model learns to reconstruct missing regions by iteratively denoising Gaussia
 
 Example reconstruction:
 
-![result](figs/inpainting_results.png)
+![result](Figs/inpainting_results.png)
+![result](Figs/inpainting_results2.png)
+![result](Figs/inpainting_results3.png)
 
 ---
 
